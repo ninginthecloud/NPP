@@ -1,0 +1,18 @@
+#introduce all possible libraries
+library(ggmap)
+library(maptools)
+library(sp)
+library(RColorBrewer)
+library(plyr)
+library(fossil)#calculate earth distance
+library(Imap)
+library(xtable)
+library(ggplot2)
+library(mgcv)
+library(rgeos)
+library(SpatialEpi)
+library(INLA)
+library(rgdal)
+library(spdep)
+library(gridExtra)
+library(classInt)
